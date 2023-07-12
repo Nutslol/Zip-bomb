@@ -1,0 +1,55 @@
+@import url("sk8-overlay.css");
+@import url("slides.css");
+
+html{
+    background-color:white;
+    
+
+}
+
+
+h1{ margin:0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    padding:10px;
+    background-color: khaki;
+    width: 100%;
+    z-index: 999;
+    color:black
+    
+}
+
+.sec3{
+    align-items: top, center;
+}
+
+h2{
+    padding-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#fs180{
+    width: 20rem;
+    aspect-ratio: 9/16;
+    border-radius: 20px;
+}
+.sec3 img{
+    width: 20rem;
+    
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:none;
+
+}
+a:hover {
+    text-decoration:underline;
+    color:blueviolet;
+}
+ 
+p{
+    color:black;
+}
