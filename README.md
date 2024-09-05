@@ -1,5 +1,5 @@
-# skate-web
-turn any computer into a bomb(not really) This is my second attempt at a website and is still in progress
+# skateboard website thing
+This is my second attempt at a website and is still in progress
 
 I don't have a domain because I can't afford it, but you can still access it.
 
